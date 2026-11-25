@@ -1,5 +1,7 @@
 # 🏁 PIT WALL // SYNC
 
+LIVE DEMO AT -https://pit-wall-liart.vercel.app/
+
 **Formula 1-Inspired Squad Timetable & Meeting Window Synchronizer built for HBTU Kanpur.**
 
 `PIT WALL // SYNC` helps student teams, hackathon squads, and project groups find overlapping free hours across weekly class schedules, simulate availability by benching drivers, import official HBTU timetables via AI or PDF parsing, and dispatch locked meeting slots in one click.
